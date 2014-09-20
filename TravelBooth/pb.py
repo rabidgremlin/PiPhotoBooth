@@ -34,10 +34,10 @@ blank = pygame.image.load('blank.png').convert()
 withlogo = pygame.image.load("withlogo.png").convert()
 #results = pygame.image.load("results.png").convert()
 
-text_star_fleet_enrollment = font_big.render("STAR FLEET ENROLLMENT SYSTEM", True, (255, 153, 00))
+text_star_fleet_enrollment = font_big.render("PASSPORT PHOTO CHECK", True, (255, 153, 00))
 text_press_space = font_mid.render("PRESS SPACE TO BEGIN", True, (155, 155, 251))
 
-text_pose = font_big.render("PREPARE FOR BIOMETRIC SCANS", True, (255, 153, 00))
+text_pose = font_big.render("PREPARE PHOTO CHECK", True, (255, 153, 00))
 text_3 = font_super.render("3", True, (255, 153, 00))
 text_2 = font_super.render("2", True, (255, 153, 00))
 text_1 = font_super.render("1", True, (255, 153, 00))
