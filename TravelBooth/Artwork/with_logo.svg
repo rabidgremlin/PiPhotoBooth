@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1184"
+   height="624"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="with_logo.svg"
+   inkscape:export-filename="C:\play\PiPhotoBooth\TravelBooth\withlogo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3003"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3005"
+         d="m 0,0 595.276,0 0,841.89 L 0,841.89 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.41038434"
+     inkscape:cx="-5.1314675"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-428.36217)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3056"
+       width="1198.8765"
+       height="623.80573"
+       x="-7.4382324"
+       y="428.5567" />
+    <g
+       transform="matrix(1.650056,0,0,-1.650056,72.045161,1824.4703)"
+       inkscape:label="sallyair_logo"
+       id="g2993">
+      <g
+         transform="translate(499.471,745.8707)"
+         id="g2995">
+        <path
+           id="path2997"
+           style="fill:none;stroke:#6f0138;stroke-width:5.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 -379.565,0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g2999">
+        <g
+           clip-path="url(#clipPath3003)"
+           id="g3001">
+          <g
+             transform="translate(494.6758,755.473)"
+             id="g3007">
+            <path
+               id="path3009"
+               style="fill:#6f0138;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c -4.178,0 -7.566,-3.637 -7.566,-8.123 0,-4.486 3.388,-8.122 7.566,-8.122 4.178,0 7.566,3.636 7.566,8.122 C 7.566,-3.637 4.178,0 0,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(513.0709,746.1827)"
+             id="g3011">
+            <path
+               id="path3013"
+               style="fill:#6f0138;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c 0,2.15 -16.307,4.804 -16.307,4.804 l -0.314,-8.998 C -16.621,-4.194 0,-2.219 0,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(415.6862,728.8557)"
+             id="g3015">
+            <path
+               id="path3017"
+               style="fill:#6f0138;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c -17.293,0 -31.311,7.82 -31.311,17.467 0,9.647 14.018,17.467 31.311,17.467 17.292,0 31.311,-7.82 31.311,-17.467 C 31.311,7.82 17.292,0 0,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(401.3489,743.7457)"
+             id="g3019">
+            <path
+               id="path3021"
+               style="fill:#6f0138;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c -5.9,8.244 -48.248,6.871 -46.731,9.373 3.596,5.932 40.388,5.55 34.844,5.234 -2.811,-0.16 -42.657,0.032 -41.479,2.343 3.275,6.426 39.551,7.254 35.581,7.303 -24.163,0.299 -45.139,-1.799 -42.954,-0.214 13.921,10.099 52.612,15.22 71.001,9.478 C 26.834,28.343 34.487,18.918 32.972,9.717 30.272,-6.677 7.853,-10.973 0,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(401.3489,743.7457)"
+             id="g3023">
+            <path
+               id="path3025"
+               style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 0,0 c -5.9,8.244 -48.248,6.871 -46.731,9.373 3.596,5.932 40.388,5.55 34.844,5.234 -2.811,-0.16 -42.657,0.032 -41.479,2.343 3.275,6.426 39.551,7.254 35.581,7.303 -24.163,0.299 -45.139,-1.799 -42.954,-0.214 13.921,10.099 52.612,15.22 71.001,9.478 C 26.834,28.343 34.487,18.918 32.972,9.717 30.272,-6.677 7.853,-10.973 0,0 z"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <text
+         id="text3027"
+         transform="matrix(0.97733393,0,-0.21170356,-0.65155595,119.9055,755.3595)">
+        <tspan
+           id="tspan3029"
+           sodipodi:role="line"
+           y="0"
+           x="0 45.690628 100.65904 139.06711 173.88376"
+           style="font-size:99.76119232px;font-variant:normal;font-weight:normal;font-stretch:condensed;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Tw Cen MT Condensed Extra Bold;-inkscape-font-specification:TwCenMT-CondensedExtraBold">SALLY</tspan>
+      </text>
+      <text
+         id="text3031"
+         transform="matrix(1,0,0,-0.66666667,122.0315,718.606)">
+        <tspan
+           id="tspan3033"
+           sodipodi:role="line"
+           y="0"
+           x="0 32.668499 55.2015 86.956497 112.404 134.937 171.47701 199.18649"
+           style="font-size:43.5px;font-variant:normal;font-weight:normal;font-stretch:condensed;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Tw Cen MT Condensed Extra Bold;-inkscape-font-specification:TwCenMT-CondensedExtraBold">AIRLINES</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
